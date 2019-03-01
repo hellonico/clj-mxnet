@@ -1,4 +1,4 @@
-(defproject clj-mxnet/lein-template "0.0.1"
+(defproject clj-mxnet/lein-template "0.0.2-SNAPSHOT"
   :description "Created with lein-create-template"
   :url "http://example.com/FIXME"
   :deploy-repositories [["releases" :clojars]]

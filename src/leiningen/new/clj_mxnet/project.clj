@@ -15,7 +15,7 @@
 :auto {:default {:file-pattern #"\.(clj)$"}}
 :main tutorial.introduction
 :repositories [
-["mxnet" {:url "https://repository.apache.org/content/repositories/staging/"}]
+; ["mxnet" {:url "https://repository.apache.org/content/repositories/staging/"}]
 ["vendredi" {:url "https://repository.hellonico.info/repository/hellonico/" :creds :gpg}]
 ]
 :aliases {"notebook" ["gorilla" ":ip" "0.0.0.0" ":port" "10000"]}
